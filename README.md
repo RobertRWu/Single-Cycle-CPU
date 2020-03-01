@@ -4,7 +4,7 @@
 
 A simple single cycle CPU with following 31 instructions based on MIPS architecture.
 
-![instructions](E:\Work\Code\Verilog\MIPS-31-CPU\instructions.jpg)
+![instructions](E:\Work\Code\Verilog\Single-Cycle-CPU\instructions.jpg)
 
 
 
