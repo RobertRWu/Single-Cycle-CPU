@@ -1,4 +1,11 @@
-`timescale 1ns / 1ns
+//////////////////////////////////////////////////////////////////////////////////
+// Engineer: Robert Wu
+// 
+// Create Date: 05/01/2019 11:24:22 AM
+// Project Name: Single Cycle CPU with 31 Instructions Based on MIPS Architecture
+//////////////////////////////////////////////////////////////////////////////////
+
+`timescale 1ns / 1ps
 module mux5(
     input [4:0] C0,
     input [4:0] C1,

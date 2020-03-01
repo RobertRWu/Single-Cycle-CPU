@@ -2,7 +2,9 @@
 
 ## Description
 
-A simple single cycle CPU with 31 instructions based on MIPS architecture.
+A simple single cycle CPU with following 31 instructions based on MIPS architecture.
+
+![instructions](E:\Work\Code\Verilog\MIPS-31-CPU\instructions.jpg)
 
 
 

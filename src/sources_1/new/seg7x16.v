@@ -1,23 +1,12 @@
-`timescale 1ns / 1ns
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Engineer: Robert Wu
 // 
-// Create Date:    13:00:18 05/03/2017 
-// Design Name: 
-// Module Name:    seg7x16 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
+// Create Date: 05/01/2019 11:24:22 AM
+// Project Name: Single Cycle CPU with 31 Instructions Based on MIPS Architecture
 //////////////////////////////////////////////////////////////////////////////////
+
+`timescale 1ns / 1ps
+
 module seg7x16(
     input clk,
 	input reset,
